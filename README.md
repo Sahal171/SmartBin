@@ -5,7 +5,10 @@
 
 ---
 
-🚀 **Live Demo:** [https://smartbin.sahalmuzammil.me](https://smartbin.sahalmuzammil.me)
+## 🚀 Live Demo
+
+**Try SmartBin:** [https://smartbin.sahalmuzammil.me](https://smartbin.sahalmuzammil.me)
+
 
 ## 📖 Overview
 
